@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLivros", "WebLivros\WebLivros.csproj", "{1B2524FC-F867-4896-9425-555962A2543D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2524FC-F867-4896-9425-555962A2543D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2524FC-F867-4896-9425-555962A2543D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2524FC-F867-4896-9425-555962A2543D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2524FC-F867-4896-9425-555962A2543D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC921338-54FB-40BA-B132-BD82B0BC8925}
+	EndGlobalSection
+EndGlobal
